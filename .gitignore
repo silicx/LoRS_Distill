@@ -1,0 +1,15 @@
+/buffer
+distill_utils/checkpoints
+distill_utils/data
+tmp
+logged_files
+wandb
+
+# just simply ignore these files
+__pycache__/
+.DS_Store
+.ipynb_checkpoints
+.vscode
+*.pyc
+*.png
+*.npz
