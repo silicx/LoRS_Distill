@@ -52,7 +52,13 @@ distill_utils/checkpoints/
 
 If you find our work useful and inspiring, please cite our paper:
 ```
-(waiting for arXiv)
+@article{xu2024lors,
+  title={Low-Rank Similarity Mining for Multimodal Dataset Distillation},
+  author={Xu, Yue and Lin, Zhilin and Qiu, Yusong and Lu, Cewu and Li, Yong-Lu},
+  journal={arXiv e-prints},
+  pages={arXiv--2406},
+  year={2024}
+}
 ```
 
 
