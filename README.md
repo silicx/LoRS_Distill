@@ -1,5 +1,7 @@
 # LoRS: Low-Rank Similarity Mining
 
+### [Paper](http://arxiv.org/abs/2406.03793)
+
 This repo contains code of our ICML'24 work **LoRS**: **Lo**w-**R**ank **S**imilarity Mining for Multimodal Dataset Distillation. LoRS propose to learn the similarity matrix during distilling the image and text. The simple and plug-and-play method yields significant performance gain. Please check our [paper](http://arxiv.org/abs/2406.03793) for more analysis.
 
 
