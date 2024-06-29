@@ -3,7 +3,7 @@ import argparse
 import torch
 import torch.nn as nn
 from tqdm import tqdm, trange
-from distill_default_utils import load_or_process_file
+from src.vl_distill_utils import load_or_process_file
 from src.epoch import epoch, epoch_test, itm_eval
 import copy
 import wandb
